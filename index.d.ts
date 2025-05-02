@@ -1,0 +1,2 @@
+export declare const ERC20: object[];
+export declare const WETH: object[];
